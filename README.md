@@ -19,7 +19,9 @@ The performance metrics used for evaluation is **accuracy**.
 **Labels:**
 
 White: Ground Truth Segmentation
+
 Blue: Correct segmentation predicted by the algorithm. (True Postiive)
+
 Green: Incorrect segmentation predicted by the algorithm. (False Positive)
 
 ![image](https://github.com/Suhanee-Hingorani/Segmentation-Comparitive-Study/assets/90537380/89509fc7-da53-4725-976d-3eeb7b6d9354)
