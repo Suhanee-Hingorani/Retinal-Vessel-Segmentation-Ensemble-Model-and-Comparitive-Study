@@ -16,7 +16,7 @@ The performance metrics used for evaluation is **accuracy**.
 
 ![01_manual1](https://github.com/Suhanee-Hingorani/Segmentation-Comparitive-Study/assets/90537380/03557233-d8fe-4837-a9cd-314a09e2a50f)
 
-#**Labels:**
+**Labels:**
 
 White: Ground Truth Segmentation
 Blue: Correct segmentation predicted by the algorithm. (True Postiive)
